@@ -1,0 +1,27 @@
+*{
+    background-color:#ffffff;
+    color: green;
+}
+header{
+    color:black;
+    font-family: monospace;
+    background-color: aqua;
+    width: 900px;
+    height: 100px;
+    font-size: 30px;
+    margin-left: 210px  ;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+#titulo1{
+    color: blue;
+}
+.titulo2{
+    color: red;
+}
+#titulo3{
+    display: flex;
+    justify-content: center
+}
